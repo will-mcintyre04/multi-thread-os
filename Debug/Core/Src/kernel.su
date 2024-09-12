@@ -1,0 +1,7 @@
+../Core/Src/kernel.c:16:6:SVC_Handler_Main	24	static,ignoring_inline_asm
+../Core/Src/kernel.c:60:11:allocate_new_stack	16	static
+../Core/Src/kernel.c:76:6:osCreateThread	48	static
+../Core/Src/kernel.c:108:6:osCreateThreadWithDeadline	56	static
+../Core/Src/kernel.c:144:6:osKernelInitialize	4	static
+../Core/Src/kernel.c:151:6:osKernelStart	4	static,ignoring_inline_asm
+../Core/Src/kernel.c:155:6:osSched	16	static,ignoring_inline_asm
