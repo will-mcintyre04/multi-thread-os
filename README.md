@@ -64,13 +64,6 @@ Tasks are assigned deadlines, and the scheduler ensures that the highest-priorit
 - **Second Thread**: Similar to the first, but prints "Thread 2".
 - **Thread with Parameters**: A thread that accepts parameters and prints them in a loop.
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions, bug fixes, and feature suggestions are always welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
